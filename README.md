@@ -53,8 +53,8 @@ Metric: Accuracy
 
  How to Run
 1. Clone Repository
-git clone https://github.com/AnandmaniKumar/LungCancerDetection-CNN.git
-cd LungCancerDetection-CNN
+git clone [https://github.com/AnandmaniKumar/LungCancerDetection-CNN.git](https://github.com/Anandmanikumar/Lung-cancer-detection-/tree/main)
+
 
 2. Install Dependencies
 pip install -r requirements.txt
