@@ -78,7 +78,7 @@ data/
 │   └── PNEUMONIA/
 
 4. Open Notebook
-jupyter notebook Lung_Cancer_Detection_CNN.ipynb
+jupyter notebook lung-cancer-detection.ipynb
 
 
 Run the cells step by step to:
