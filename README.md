@@ -53,7 +53,7 @@ Metric: Accuracy
 
  How to Run
 1. Clone Repository
-git clone https://github.com/<your-username>/LungCancerDetection-CNN.git
+git clone https://github.com/AnandmaniKumar/LungCancerDetection-CNN.git
 cd LungCancerDetection-CNN
 
 2. Install Dependencies
